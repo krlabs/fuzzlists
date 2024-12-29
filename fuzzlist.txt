@@ -56,4 +56,5 @@
 /data.sql.zip
 /dump.sql
 /cgi-bin/wrap.cgi
+/server-status
 
