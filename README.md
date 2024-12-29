@@ -1,2 +1,2 @@
-# fuzzlists
-Website Discovery Fuzz lists
+# Website Discovery Fuzz lists
+
