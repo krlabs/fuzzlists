@@ -76,3 +76,4 @@
 /access.log
 /php.ini
 /style.css
+/security.txt
