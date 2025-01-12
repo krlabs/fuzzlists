@@ -46,6 +46,7 @@
 /.git
 /htaccess.txt
 /htaccess
+/.htaccess.bk
 /.htaccess
 /ads.txt
 /feed/
@@ -73,3 +74,4 @@
 /error_log
 /access.log
 /php.ini
+/style.css
