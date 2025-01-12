@@ -44,10 +44,11 @@
 /wp-rdf.php
 /.DS_Store
 /.git
-/htaccess.txt
 /htaccess
-/.htaccess.bk
 /.htaccess
+/htaccess.txt
+/.htaccess.bk
+/.htaccess.save
 /ads.txt
 /feed/
 /debug.log
