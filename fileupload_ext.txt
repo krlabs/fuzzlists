@@ -5,11 +5,14 @@
 .pHP5
 .PhAr
 .jpeg.php
+.jpg.phtml
+.phtml.jpg
 .jpg.php
 .png.php
 .php.jpg
 .php.gif
 .php.png
+.php.jpg
 .png.php5
 .phps
 .php3
